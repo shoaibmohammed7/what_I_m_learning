@@ -4,5 +4,7 @@ Resources to learn Linux & DevOps: https://substack.com/@thatstraw/note/c-179209
 
 Video Difussion Model: https://medium.com/@cb7chaitanya/video-diffusion-models-teaching-machines-to-imagine-motion-4f7647ae758f
 
+LLM Q - https://drive.google.com/file/d/1cUxKspEXgQ64s4OFEw0kabf_qNauOPiH/view
+
 
 
