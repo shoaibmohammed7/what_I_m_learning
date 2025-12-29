@@ -2,7 +2,7 @@
 
 System Design Key Concepts: https://drive.google.com/drive/folders/1Syf9xlH7-2sudBgpSWIGQtPh2BFcJqcx?usp=drive_link
 
-Resources to learn Linux & DevOps: https://substack.com/@thatstraw/note/c-179209009?r=27kstu&utm_medium=ios&utm_source=notes-share-action
+Resources: https://substack.com/@thatstraw/note/c-179209009?r=27kstu&utm_medium=ios&utm_source=notes-share-action
 
 Video Difussion Model: https://medium.com/@cb7chaitanya/video-diffusion-models-teaching-machines-to-imagine-motion-4f7647ae758f
 
